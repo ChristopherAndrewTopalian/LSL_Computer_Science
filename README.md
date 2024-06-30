@@ -1,2 +1,12 @@
-# LSL_Computer_Science
-Learn Computer Science with LSL Linden Scripting for the Virtual worlds Second Life and Opensims. Happy Scripting :-)
+<!-- Python_Computer_Science.md -->
+
+### Dedicated to God the Father
+
+## LSL_Computer_Science
+All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
+https://github.com/ChristopherTopalian
+
+---
+
+#### [llOwnerSay](lsl/llOwnerSay.lsl)
+
