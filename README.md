@@ -11,5 +11,5 @@ https://github.com/ChristopherAndrewTopalian
 
 #### [llOwnerSay](lsl/llOwnerSay.lsl)
 
-#### [llOwnerSay](lsl/llSetText.lsl)
+#### [llSetText](lsl/llSetText.lsl)
 
