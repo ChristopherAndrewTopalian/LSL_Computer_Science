@@ -2,9 +2,9 @@
 
 default
 {
-    touch_start(integer x)
+    touch_start(integer total)
     {
-        llOwnerSay("You own this");
+        llOwnerSay("I own this");
     }
 }
 
